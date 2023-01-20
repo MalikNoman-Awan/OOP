@@ -1,0 +1,33 @@
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\riphah cgpa calculator\Cgpa Calculator\Cgpa Calculator\bin\Debug\Cgpa Calculator.exe.config
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\riphah cgpa calculator\Cgpa Calculator\Cgpa Calculator\bin\Debug\Cgpa Calculator.exe
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\riphah cgpa calculator\Cgpa Calculator\Cgpa Calculator\bin\Debug\Cgpa Calculator.pdb
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\riphah cgpa calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.AssemblyReference.cache
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\riphah cgpa calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.SuggestedBindingRedirects.cache
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\riphah cgpa calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa_Calculator.Form1.resources
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\riphah cgpa calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa_Calculator.Properties.Resources.resources
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\riphah cgpa calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.GenerateResource.cache
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\riphah cgpa calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.CoreCompileInputs.cache
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\riphah cgpa calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.exe
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\riphah cgpa calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.pdb
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\bin\Debug\Cgpa Calculator.exe.config
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\bin\Debug\Cgpa Calculator.exe
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\bin\Debug\Cgpa Calculator.pdb
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.AssemblyReference.cache
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.SuggestedBindingRedirects.cache
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa_Calculator.Form1.resources
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa_Calculator.Properties.Resources.resources
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.GenerateResource.cache
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.CoreCompileInputs.cache
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.exe
+E:\BS Computer Science\2nd Semester\OOP C++\C sharp\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.pdb
+D:\BS Computer Science\2nd Semester\OOP C++\Assignment\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\bin\Debug\Cgpa Calculator.exe.config
+D:\BS Computer Science\2nd Semester\OOP C++\Assignment\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\bin\Debug\Cgpa Calculator.exe
+D:\BS Computer Science\2nd Semester\OOP C++\Assignment\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\bin\Debug\Cgpa Calculator.pdb
+D:\BS Computer Science\2nd Semester\OOP C++\Assignment\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.AssemblyReference.cache
+D:\BS Computer Science\2nd Semester\OOP C++\Assignment\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.SuggestedBindingRedirects.cache
+D:\BS Computer Science\2nd Semester\OOP C++\Assignment\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa_Calculator.Form1.resources
+D:\BS Computer Science\2nd Semester\OOP C++\Assignment\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa_Calculator.Properties.Resources.resources
+D:\BS Computer Science\2nd Semester\OOP C++\Assignment\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.GenerateResource.cache
+D:\BS Computer Science\2nd Semester\OOP C++\Assignment\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.csproj.CoreCompileInputs.cache
+D:\BS Computer Science\2nd Semester\OOP C++\Assignment\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.exe
+D:\BS Computer Science\2nd Semester\OOP C++\Assignment\Assignment 4\Cgpa Calculator\Cgpa Calculator\Cgpa Calculator\obj\Debug\Cgpa Calculator.pdb
